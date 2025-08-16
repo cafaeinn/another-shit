@@ -1,1 +1,0 @@
-{"version":3,"file":"TetoReady.d.ts","sourceRoot":"","sources":["../../src/Events/TetoReady.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAI/C,qBACa,SAAS;IAEd,OAAO,CAAC,CAAC,CAAC,CAAC,EAAE,MAAM,CAAC,OAAO,CAAC,EAAE,MAAM,EAAE,MAAM;CAUnD"}

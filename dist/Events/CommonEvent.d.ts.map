@@ -1,1 +1,0 @@
-{"version":3,"file":"CommonEvent.d.ts","sourceRoot":"","sources":["../../src/Events/CommonEvent.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAG/C,qBACa,OAAO;IAElB,aAAa,CAAC,CAAC,OAAO,CAAC,EAAE,MAAM,CAAC,eAAe,CAAC,EAAE,MAAM,EAAE,MAAM,GAAG,IAAI;CAGxE"}

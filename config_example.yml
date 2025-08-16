@@ -1,0 +1,7 @@
+token: "token"
+devGuild: "000"
+database:
+  connectionString: "url"
+  username: "usn"
+  password: "pwd"
+  bucket: "bucket"

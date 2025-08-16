@@ -1,0 +1,1 @@
+{"version":3,"file":"PingCommand.d.ts","sourceRoot":"","sources":["../../../src/Commands/Info/PingCommand.ts"],"names":[],"mappings":"AAAA,OAAO,EAAiC,oBAAoB,EAAE,MAAM,UAAU,CAAC;AAC/E,OAAO,EAAE,kBAAkB,EAAE,MAAM,YAAY,CAAC;AAEhD,qBACa,WAAW;IAGhB,SAAS,CAAC,WAAW,EAAE,kBAAkB;IAOzC,WAAW,CAAC,OAAO,EAAE,oBAAoB;CAKhD"}

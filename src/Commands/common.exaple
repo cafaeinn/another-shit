@@ -1,0 +1,17 @@
+import { Discord, Slash, SimpleCommand, SimpleCommandOptionType, SimpleCommandMessage, Guard , MetadataStorage, SlashOption, SlashChoice, SimpleCommandOption } from "discordx";
+import { Category, PermissionGuard } from "@discordx/utilities";
+import { CommandInteraction, ApplicationCommandOptionType, GuildMember, User, Role, Guild, EmbedBuilder } from "discord.js";
+
+@Discord()
+@Category("Category Command")
+export class ExampleCommand {
+  @Slash({ name: "example", description: "Example slash command" })
+  async exampleSlash(interaction: CommandInteraction) {
+    // Slash command logic here
+  }
+
+  @SimpleCommand({ name: "example" })
+  async exampleMessage(command: SimpleCommandMessage) {
+    // Simple command logic here
+  }
+}

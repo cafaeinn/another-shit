@@ -3,5 +3,8 @@ devGuild: "000"
 database:
   connectionString: "url"
   username: "usn"
-  password: "pwd"
+  password: "pwd
   bucket: "bucket"
+muisic:
+  spSec: "secret"
+  spId: "id"
